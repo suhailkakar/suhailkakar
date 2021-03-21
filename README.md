@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/suhailkakar">
   <img align="left" alt="Suhail's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://suhailkakar.medium.com/">
-  <img align="left" alt="Suhail's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=suhailkakar.suhailkakar)
 

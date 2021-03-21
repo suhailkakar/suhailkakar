@@ -18,7 +18,7 @@ My name is Suhail, an Afghan Web Developer & Designer. I was born in Kabul,the c
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/suhailkakar/suhailkakar/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@suhailkakar](https://twitter.com/suhailkakar);

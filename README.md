@@ -18,7 +18,6 @@ Hi, I'm [Suhail Kakar](https://suhailkakar.com/), Full stack developer with hand
 
 
 
-  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@suhailkakar](https://twitter.com/suhailkakar);

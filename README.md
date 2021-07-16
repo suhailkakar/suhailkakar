@@ -168,9 +168,9 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
       </a>
-      <br>React JS
+      <br>Flask
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">

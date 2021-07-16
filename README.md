@@ -174,9 +174,21 @@
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="G Cloud" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
+    </td>
+          <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+             <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>G Cloud
     </td>
   </tr>
     

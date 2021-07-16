@@ -186,9 +186,9 @@
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="48" height="41" alt="G Cloud" />
       </a>
-      <br>MongoDB
+      <br>G Cloud
     </td>
   </tr>
     

@@ -172,23 +172,11 @@
       </a>
       <br>Flask
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="48" height="41" alt="G Cloud" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="G Cloud" />
       </a>
-      <br>G Cloud
+      <br>Redux
     </td>
   </tr>
     

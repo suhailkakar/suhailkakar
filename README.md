@@ -202,4 +202,11 @@
 </table>
 <!-- links -->
 
+<style>
+  body : {
+      overflow: hidden;
+  }
+  </style>
+
+
 [linkedin]: https://www.linkedin.com/in/suhailkakar "Suhail Kakar LinkedIn"

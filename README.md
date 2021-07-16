@@ -20,6 +20,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -77,6 +78,7 @@
       <br>MongoDB
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
@@ -132,35 +134,31 @@
       </a>
       <br>PHP
     </td>
-    
   </tr>
-  
-  
-  
    <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
       </a>
-      <br>JavaScript
+      <br>TailWind
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
-      <br>Python
+      <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
-      <br>Django
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
       </a>
-      <br>Azure
+      <br>Tensorflow
     </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
@@ -193,20 +191,10 @@
       <br>MongoDB
     </td>
   </tr>
-  <tr>
-    
-    
-    
-    
     
 </table>
 <!-- links -->
 
-<style>
-  body : {
-      overflow: hidden;
-  }
-  </style>
 
 
 [linkedin]: https://www.linkedin.com/in/suhailkakar "Suhail Kakar LinkedIn"

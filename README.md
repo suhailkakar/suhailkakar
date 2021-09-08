@@ -195,6 +195,4 @@
 </table>
 <!-- links -->
 
-
-
-[linkedin]: https://www.linkedin.com/in/suhailkakar "Suhail Kakar LinkedIn"
+[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)

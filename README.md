@@ -193,12 +193,16 @@
   </tr>
     
 </table>
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)]
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
 [twitter]: https://twitter.com/SuhailKakar "Twitter"
 [swift]: https://developer.apple.com/swift/ "Swift"
+
+
+
+[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)
+
+
+
 

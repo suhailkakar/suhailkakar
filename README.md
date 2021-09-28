@@ -162,7 +162,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
-        <img src="https://material-ui.com/static/logo.png" width="48" height="48" alt="Material UI" />
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
     </td>

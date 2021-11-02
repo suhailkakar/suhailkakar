@@ -8,7 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Nordstone UK**
-- :seedling: &nbsp;I’m currently learning **[Swift]**
+- :seedling: &nbsp;I’m currently learning **[Solidity]**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -197,7 +197,7 @@
 
 [linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
 [twitter]: https://twitter.com/SuhailKakar "Twitter"
-[swift]: https://developer.apple.com/swift/ "Swift"
+[Solidity]: https://soliditylang.org/ "Solidity"
 
 
 

@@ -9,6 +9,7 @@
 
 - :office: &nbsp;I'm currently working at **Nordstone UK**
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
+- :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -197,6 +198,7 @@
 
 [linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
 [twitter]: https://twitter.com/SuhailKakar "Twitter"
+[blog]: http://blog.suhailkakar.com/ "Blog"
 [Solidity]: https://soliditylang.org/ "Solidity"
 
 

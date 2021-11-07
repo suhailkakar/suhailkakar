@@ -10,7 +10,7 @@
 - :office: &nbsp;I'm currently working at **Nordstone UK**
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
-- :speech_balloon: &nbsp;I like to talk about **Linux** and **Open Source**
+- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**

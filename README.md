@@ -197,11 +197,11 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Custom Networks To MetaMask](https://blog.suhailkakar.com/add-custom-networks-to-metamask)
 - [Web 3.0 Terms and Their Definitions in Plain English](https://blog.suhailkakar.com/web-30-terms-and-their-definitions-in-plain-english)
 - [How To Solve Captcha in JavaScript Using 2Captcha](https://blog.suhailkakar.com/how-to-solve-captcha-in-javascript-using-2captcha)
 - [What Are DApps: A Complete Guide To Decentralized Applications](https://blog.suhailkakar.com/what-are-dapps-a-complete-guide-to-decentralized-applications)
 - [Top 20 Most Used AWS Services Explained](https://blog.suhailkakar.com/top-20-most-used-aws-services-explained)
-- [How I use ClickUp to efficiently organize my day](https://blog.suhailkakar.com/how-i-use-clickup-to-efficiently-organize-my-day)
 <!-- BLOG-POST-LIST:END -->
 
 

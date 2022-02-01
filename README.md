@@ -196,11 +196,11 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application)
 - [What Are NFTs and How to Mint and Sell an NFT on Kollect Marketplace](https://blog.suhailkakar.com/what-are-nfts-and-how-to-mint-and-sell-an-nft-on-kollect-marketplace)
 - [How to Add Custom Networks To MetaMask](https://blog.suhailkakar.com/add-custom-networks-to-metamask)
 - [Web 3.0 Terms and Their Definitions in Plain English](https://blog.suhailkakar.com/web-30-terms-and-their-definitions-in-plain-english)
 - [How To Solve Captcha in JavaScript Using 2Captcha](https://blog.suhailkakar.com/how-to-solve-captcha-in-javascript-using-2captcha)
-- [What Are DApps: A Complete Guide To Decentralized Applications](https://blog.suhailkakar.com/what-are-dapps-a-complete-guide-to-decentralized-applications)
 <!-- BLOG-POST-LIST:END -->
 
 

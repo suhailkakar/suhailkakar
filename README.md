@@ -138,7 +138,7 @@
    <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>

@@ -196,11 +196,11 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [13 Projects You Can Do to Become a Web3 and Blockchain Master - Beginner to Expert](https://blog.suhailkakar.com/13-projects-you-can-do-to-become-a-web3-and-blockchain-master-beginner-to-expert)
 - [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022)
 - [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application)
 - [What Are NFTs and How to Mint and Sell an NFT on Kollect Marketplace](https://blog.suhailkakar.com/what-are-nfts-and-how-to-mint-and-sell-an-nft-on-kollect-marketplace)
 - [How to Add Custom Networks To MetaMask](https://blog.suhailkakar.com/add-custom-networks-to-metamask)
-- [Web 3.0 Terms and Their Definitions in Plain English](https://blog.suhailkakar.com/web-30-terms-and-their-definitions-in-plain-english)
 <!-- BLOG-POST-LIST:END -->
 
 

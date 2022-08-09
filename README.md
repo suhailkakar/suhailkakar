@@ -1,13 +1,12 @@
 
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Suhail Kakar</h1>
-<h3 align="left">I am a Software Developer at Nordstone </h3>
 
 
 <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Nordstone UK**
+- :office: &nbsp;I'm currently working at **Chainstack**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**

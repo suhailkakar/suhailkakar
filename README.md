@@ -20,11 +20,11 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [Building a NFT Ticketing app with Paper and Next.js](https://blog.suhailkakar.com/building-a-nft-ticketing-app-with-paper-and-nextjs)
 - [Building a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://blog.suhailkakar.com/building-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol)
 - [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph,  Solidity, and Livepeer](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
 - [13 Projects You Can Do to Become a Web3 and Blockchain Master - Beginner to Expert](https://blog.suhailkakar.com/13-projects-you-can-do-to-become-a-web3-and-blockchain-master-beginner-to-expert)
 - [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022)
-- [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://blog.suhailkakar.com/setup-and-build-your-first-web-3-application)
 <!-- BLOG-POST-LIST:END -->
 
 

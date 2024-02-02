@@ -20,11 +20,11 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
+- [The Developer&#39;s Guide to Zero-Knowledge and zkSync Era ∎](https://blog.suhailkakar.com/the-developers-guide-to-zero-knowledge-and-zksync-era)
 - [Building a NFT Ticketing app with Paper and Next.js](https://blog.suhailkakar.com/building-a-nft-ticketing-app-with-paper-and-nextjs)
 - [Building a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://blog.suhailkakar.com/building-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol)
 - [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph,  Solidity, and Livepeer](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
 - [13 Projects You Can Do to Become a Web3 and Blockchain Master - Beginner to Expert](https://blog.suhailkakar.com/13-projects-you-can-do-to-become-a-web3-and-blockchain-master-beginner-to-expert)
-- [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://blog.suhailkakar.com/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022)
 <!-- BLOG-POST-LIST:END -->
 
 

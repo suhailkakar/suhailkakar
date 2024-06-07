@@ -20,7 +20,7 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Developer&#39;s Guide to EigenLayer&#39;s AVS](https://blog.suhailkakar.com/the-complete-developers-guide-to-eigenlayers-avs)
+- [The Complete Developer&#39;s Guide to EigenLayer&#39;s AVS](https://blog.suhailkakar.com/the-complete-developers-guide-to-avs)
 - [The Developer&#39;s Guide to Zero-Knowledge and zkSync Era ∎](https://blog.suhailkakar.com/the-developers-guide-to-zero-knowledge-and-zksync-era)
 - [Building a NFT Ticketing app with Paper and Next.js](https://blog.suhailkakar.com/building-a-nft-ticketing-app-with-paper-and-nextjs)
 - [Building a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://blog.suhailkakar.com/building-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol)
